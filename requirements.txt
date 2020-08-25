@@ -1,0 +1,16 @@
+certifi==2020.6.20
+chardet==3.0.4
+comtypes==1.1.7
+et-xmlfile==1.0.1
+idna==2.10
+jdcal==1.4.1
+lml==0.0.9
+openpyxl==3.0.5
+pyexcel==0.6.4
+pyexcel-io==0.5.20
+pyexcel-xlsx==0.5.8
+pywin32==228
+requests==2.24.0
+texttable==1.6.2
+urllib3==1.25.10
+xlwings==0.20.4
